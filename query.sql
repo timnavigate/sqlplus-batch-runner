@@ -1,5 +1,12 @@
-select * from DUAL
+SET ECHO OFF
 ;
 
-exit
+/*---- executable sql query/queries ----*/
+
+SELECT * FROM DUAL
+;
+
+/*--------------------------------------*/
+
+EXIT 0
 ;
