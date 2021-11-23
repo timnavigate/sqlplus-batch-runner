@@ -1,3 +1,3 @@
-REM sqlplus user/pass@host:port/service REM path\query.sql
+sqlplus user/pass@host:port/service @%CD%\query.sql
 
-pause
+@pause
